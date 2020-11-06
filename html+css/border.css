@@ -1,0 +1,38 @@
+h2
+{
+    border: 3px #FFFFFF double;
+	border-radius:3px;
+	border: justify;
+  background-color: #4CDE51;
+}
+body
+{
+    background-color: :#2E4272 ;
+
+  }
+
+  .new
+   {
+       width:150px;
+       clip-path:ellipse(50% 50%);
+     }
+body
+    {
+     background-color: #000000;
+     }
+ div
+     {
+      color: #FFFFFF;
+      }
+    p
+     {
+         border: 3px #000000 double;
+     	border-radius:3px;
+     	border: justify;
+       background-color: #EE740B;
+       background-image: url("matric-code.jpg");
+     }
+ul
+{
+list-style-type: none;
+}
